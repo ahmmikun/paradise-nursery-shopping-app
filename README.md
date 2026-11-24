@@ -16,7 +16,7 @@ A dynamic, responsive e-commerce shopping cart app for **Paradise Nursery**, bui
 - Responsive navigation bar on the landing, product-listing and cart pages
 - Cart icon badge that updates dynamically as items are added
 - "Add to Cart" buttons that disable once a plant is in the cart
-- Redux slice with `addItem`, `incrementQuantity`, `decrementQuantity`, `removeItem` and `clearCart`
+- Redux slice with the required reducer functions `addItem`, `removeItem` and `updateQuantity`
 - Per-item line totals and an overall cart total
 - Checkout button with a "Coming Soon" message and a Continue Shopping link
 - Locally generated plant thumbnails, so there are no broken external image links
