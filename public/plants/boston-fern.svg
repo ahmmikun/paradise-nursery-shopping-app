@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Illustration of Boston Fern">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e9f5f1" />
+      <stop offset="1" stop-color="#cde7df" />
+    </linearGradient>
+    <linearGradient id="pot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#bb7a50" />
+      <stop offset="0.45" stop-color="#d39163" />
+      <stop offset="1" stop-color="#bb7a50" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)" />
+  <circle cx="200" cy="186" r="142" fill="#ffffff" opacity="0.35" />
+  <g opacity="0.18" fill="#1e6a58">
+    <circle cx="56" cy="64" r="10" />
+    <circle cx="342" cy="96" r="7" />
+    <circle cx="330" cy="312" r="12" />
+  </g>
+  <g stroke-linecap="round">
+    <ellipse cx="200" cy="126.6" rx="22.8" ry="69.6" transform="rotate(-77.2 200 248)" fill="#2f8f76" stroke="#1e6a58" stroke-width="3" />
+    <ellipse cx="200" cy="142.0" rx="30.8" ry="75.2" transform="rotate(-62.8 200 248)" fill="#1e6a58" stroke="#1e6a58" stroke-width="3" />
+    <ellipse cx="200" cy="126.6" rx="29.1" ry="67.8" transform="rotate(-41.6 200 248)" fill="#2f8f76" stroke="#1e6a58" stroke-width="3" />
+    <ellipse cx="200" cy="141.5" rx="23.9" ry="60.5" transform="rotate(-17.9 200 248)" fill="#1e6a58" stroke="#1e6a58" stroke-width="3" />
+    <ellipse cx="200" cy="144.6" rx="24.2" ry="64.7" transform="rotate(-4.0 200 248)" fill="#2f8f76" stroke="#1e6a58" stroke-width="3" />
+    <ellipse cx="200" cy="126.3" rx="30.0" ry="63.5" transform="rotate(24.0 200 248)" fill="#1e6a58" stroke="#1e6a58" stroke-width="3" />
+    <ellipse cx="200" cy="147.5" rx="28.9" ry="56.6" transform="rotate(37.2 200 248)" fill="#2f8f76" stroke="#1e6a58" stroke-width="3" />
+    <ellipse cx="200" cy="138.2" rx="19.7" ry="66.2" transform="rotate(63.2 200 248)" fill="#1e6a58" stroke="#1e6a58" stroke-width="3" />
+    <ellipse cx="200" cy="128.5" rx="23.9" ry="81.1" transform="rotate(82.1 200 248)" fill="#2f8f76" stroke="#1e6a58" stroke-width="3" />
+    <ellipse cx="200" cy="190" rx="14.4" ry="46.5" transform="rotate(-31.1 200 248)" fill="#2f8f76" opacity="0.92" />
+    <ellipse cx="200" cy="190" rx="17.2" ry="45.5" transform="rotate(-1.4 200 248)" fill="#2f8f76" opacity="0.92" />
+    <ellipse cx="200" cy="190" rx="13.9" ry="48.5" transform="rotate(26.1 200 248)" fill="#2f8f76" opacity="0.92" />
+  </g>
+  <path d="M200 246 L200 284" stroke="#1e6a58" stroke-width="9" stroke-linecap="round" />
+  <path d="M142 268 H258 L244 350 Q200 366 156 350 Z" fill="url(#pot)" />
+  <path d="M158 300 Q200 314 242 300 L244 350 Q200 366 156 350 Z" fill="#000000" opacity="0.07" />
+  <rect x="132" y="252" width="136" height="22" rx="9" fill="#bb7a50" />
+  <rect x="140" y="256" width="120" height="5" rx="2.5" fill="#ffffff" opacity="0.25" />
+</svg>

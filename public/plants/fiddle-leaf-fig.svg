@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Illustration of Fiddle Leaf Fig">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2f6e6" />
+      <stop offset="1" stop-color="#dfe9c8" />
+    </linearGradient>
+    <linearGradient id="pot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ac603f" />
+      <stop offset="0.45" stop-color="#c87452" />
+      <stop offset="1" stop-color="#ac603f" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)" />
+  <circle cx="200" cy="186" r="142" fill="#ffffff" opacity="0.35" />
+  <g opacity="0.18" fill="#487533">
+    <circle cx="56" cy="64" r="10" />
+    <circle cx="342" cy="96" r="7" />
+    <circle cx="330" cy="312" r="12" />
+  </g>
+  <g stroke-linecap="round">
+    <ellipse cx="200" cy="147.0" rx="30.7" ry="58.7" transform="rotate(-66.9 200 248)" fill="#6a9b4e" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="140.0" rx="26.9" ry="57.3" transform="rotate(-54.6 200 248)" fill="#487533" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="144.0" rx="19.2" ry="67.6" transform="rotate(-33.9 200 248)" fill="#6a9b4e" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="136.9" rx="30.2" ry="72.5" transform="rotate(-22.8 200 248)" fill="#487533" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="128.3" rx="24.1" ry="64.9" transform="rotate(-13.3 200 248)" fill="#6a9b4e" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="135.3" rx="30.8" ry="73.0" transform="rotate(-0.3 200 248)" fill="#487533" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="134.1" rx="22.3" ry="73.8" transform="rotate(9.0 200 248)" fill="#6a9b4e" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="145.7" rx="31.0" ry="77.8" transform="rotate(29.7 200 248)" fill="#487533" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="128.1" rx="21.0" ry="74.9" transform="rotate(41.7 200 248)" fill="#6a9b4e" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="134.9" rx="24.1" ry="71.5" transform="rotate(52.1 200 248)" fill="#487533" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="129.0" rx="29.7" ry="79.6" transform="rotate(72.7 200 248)" fill="#6a9b4e" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="190" rx="13.7" ry="46.9" transform="rotate(-23.4 200 248)" fill="#6a9b4e" opacity="0.92" />
+    <ellipse cx="200" cy="190" rx="13.7" ry="39.0" transform="rotate(3.0 200 248)" fill="#6a9b4e" opacity="0.92" />
+    <ellipse cx="200" cy="190" rx="16.7" ry="38.3" transform="rotate(26.3 200 248)" fill="#6a9b4e" opacity="0.92" />
+  </g>
+  <path d="M200 246 L200 284" stroke="#487533" stroke-width="9" stroke-linecap="round" />
+  <path d="M142 268 H258 L244 350 Q200 366 156 350 Z" fill="url(#pot)" />
+  <path d="M158 300 Q200 314 242 300 L244 350 Q200 366 156 350 Z" fill="#000000" opacity="0.07" />
+  <rect x="132" y="252" width="136" height="22" rx="9" fill="#ac603f" />
+  <rect x="140" y="256" width="120" height="5" rx="2.5" fill="#ffffff" opacity="0.25" />
+</svg>

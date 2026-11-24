@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Illustration of Chinese Evergreen">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2f6e6" />
+      <stop offset="1" stop-color="#dfe9c8" />
+    </linearGradient>
+    <linearGradient id="pot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ac603f" />
+      <stop offset="0.45" stop-color="#c87452" />
+      <stop offset="1" stop-color="#ac603f" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)" />
+  <circle cx="200" cy="186" r="142" fill="#ffffff" opacity="0.35" />
+  <g opacity="0.18" fill="#487533">
+    <circle cx="56" cy="64" r="10" />
+    <circle cx="342" cy="96" r="7" />
+    <circle cx="330" cy="312" r="12" />
+  </g>
+  <g stroke-linecap="round">
+    <ellipse cx="200" cy="134.0" rx="23.4" ry="56.1" transform="rotate(-90.5 200 248)" fill="#6a9b4e" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="138.4" rx="30.9" ry="78.4" transform="rotate(-65.6 200 248)" fill="#487533" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="145.2" rx="27.2" ry="58.4" transform="rotate(-45.0 200 248)" fill="#6a9b4e" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="130.7" rx="20.4" ry="66.6" transform="rotate(-23.7 200 248)" fill="#487533" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="140.0" rx="29.6" ry="75.4" transform="rotate(-8.9 200 248)" fill="#6a9b4e" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="142.4" rx="22.9" ry="65.7" transform="rotate(8.1 200 248)" fill="#487533" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="126.6" rx="27.9" ry="76.0" transform="rotate(28.7 200 248)" fill="#6a9b4e" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="147.3" rx="20.6" ry="66.0" transform="rotate(51.8 200 248)" fill="#487533" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="146.3" rx="29.4" ry="66.9" transform="rotate(69.1 200 248)" fill="#6a9b4e" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="130.6" rx="22.2" ry="60.7" transform="rotate(86.7 200 248)" fill="#487533" stroke="#487533" stroke-width="3" />
+    <ellipse cx="200" cy="190" rx="16.6" ry="38.4" transform="rotate(-29.7 200 248)" fill="#6a9b4e" opacity="0.92" />
+    <ellipse cx="200" cy="190" rx="15.4" ry="48.4" transform="rotate(4.4 200 248)" fill="#6a9b4e" opacity="0.92" />
+    <ellipse cx="200" cy="190" rx="17.4" ry="46.8" transform="rotate(26.3 200 248)" fill="#6a9b4e" opacity="0.92" />
+  </g>
+  <path d="M200 246 L200 284" stroke="#487533" stroke-width="9" stroke-linecap="round" />
+  <path d="M142 268 H258 L244 350 Q200 366 156 350 Z" fill="url(#pot)" />
+  <path d="M158 300 Q200 314 242 300 L244 350 Q200 366 156 350 Z" fill="#000000" opacity="0.07" />
+  <rect x="132" y="252" width="136" height="22" rx="9" fill="#ac603f" />
+  <rect x="140" y="256" width="120" height="5" rx="2.5" fill="#ffffff" opacity="0.25" />
+</svg>

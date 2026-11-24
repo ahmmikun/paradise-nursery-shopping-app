@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Illustration of Lady Palm">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f1e8" />
+      <stop offset="1" stop-color="#e5dfcd" />
+    </linearGradient>
+    <linearGradient id="pot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b6714f" />
+      <stop offset="0.45" stop-color="#d18a63" />
+      <stop offset="1" stop-color="#b6714f" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)" />
+  <circle cx="200" cy="186" r="142" fill="#ffffff" opacity="0.35" />
+  <g opacity="0.18" fill="#3f6d30">
+    <circle cx="56" cy="64" r="10" />
+    <circle cx="342" cy="96" r="7" />
+    <circle cx="330" cy="312" r="12" />
+  </g>
+  <g stroke-linecap="round">
+    <ellipse cx="200" cy="133.9" rx="25.0" ry="55.9" transform="rotate(-83.3 200 248)" fill="#5c8f45" stroke="#3f6d30" stroke-width="3" />
+    <ellipse cx="200" cy="138.0" rx="29.1" ry="59.8" transform="rotate(-66.4 200 248)" fill="#3f6d30" stroke="#3f6d30" stroke-width="3" />
+    <ellipse cx="200" cy="129.1" rx="25.9" ry="65.4" transform="rotate(-36.7 200 248)" fill="#5c8f45" stroke="#3f6d30" stroke-width="3" />
+    <ellipse cx="200" cy="144.0" rx="21.5" ry="67.4" transform="rotate(-20.5 200 248)" fill="#3f6d30" stroke="#3f6d30" stroke-width="3" />
+    <ellipse cx="200" cy="145.6" rx="20.9" ry="58.1" transform="rotate(7.0 200 248)" fill="#5c8f45" stroke="#3f6d30" stroke-width="3" />
+    <ellipse cx="200" cy="137.7" rx="23.7" ry="73.2" transform="rotate(15.3 200 248)" fill="#3f6d30" stroke="#3f6d30" stroke-width="3" />
+    <ellipse cx="200" cy="144.4" rx="29.5" ry="58.2" transform="rotate(35.7 200 248)" fill="#5c8f45" stroke="#3f6d30" stroke-width="3" />
+    <ellipse cx="200" cy="129.9" rx="20.4" ry="80.7" transform="rotate(68.9 200 248)" fill="#3f6d30" stroke="#3f6d30" stroke-width="3" />
+    <ellipse cx="200" cy="146.3" rx="23.2" ry="80.2" transform="rotate(87.4 200 248)" fill="#5c8f45" stroke="#3f6d30" stroke-width="3" />
+    <ellipse cx="200" cy="190" rx="14.4" ry="45.2" transform="rotate(-26.0 200 248)" fill="#5c8f45" opacity="0.92" />
+    <ellipse cx="200" cy="190" rx="15.2" ry="41.4" transform="rotate(0.2 200 248)" fill="#5c8f45" opacity="0.92" />
+    <ellipse cx="200" cy="190" rx="15.9" ry="42.9" transform="rotate(29.9 200 248)" fill="#5c8f45" opacity="0.92" />
+  </g>
+  <path d="M200 246 L200 284" stroke="#3f6d30" stroke-width="9" stroke-linecap="round" />
+  <path d="M142 268 H258 L244 350 Q200 366 156 350 Z" fill="url(#pot)" />
+  <path d="M158 300 Q200 314 242 300 L244 350 Q200 366 156 350 Z" fill="#000000" opacity="0.07" />
+  <rect x="132" y="252" width="136" height="22" rx="9" fill="#b6714f" />
+  <rect x="140" y="256" width="120" height="5" rx="2.5" fill="#ffffff" opacity="0.25" />
+</svg>
